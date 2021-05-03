@@ -5,7 +5,9 @@
   "words": [
     "circleci",
     "exponentiate",
-    "srcomp"
+    "srcomp",
+    "TLA",
+    "TLAs"
   ],
   "flagWords": [],
   "ignorePaths": [
