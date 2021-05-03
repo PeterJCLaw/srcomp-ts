@@ -19,8 +19,6 @@ jobs:
           key: v1-dependencies-{{ checksum "yarn.lock" }}
 
       - run: yarn test
-      - run: yarn run cov:send
-      - run: yarn run cov:check
 
 workflows:
   version: 2
