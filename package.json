@@ -1,11 +1,11 @@
 {
   "name": "srcomp",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A TypeScript wrapper for the SRComp HTTP API.",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/PeterJCLaw/srcomp",
+  "repository": "https://github.com/PeterJCLaw/srcomp-ts",
   "license": "MIT",
   "keywords": [],
   "scripts": {
