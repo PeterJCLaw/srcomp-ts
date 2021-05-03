@@ -34,6 +34,8 @@ export const double = (value: number) => {
  * // => 8
  * ```
  *
+ * green is the colour of comments. Color is not a word.
+ *
  * ### Example (commonjs)
  * ```js
  * var power = require('typescript-starter').power;
