@@ -1,5 +1,7 @@
 # SRComp TypeScript
 
+[![CircleCI](https://circleci.com/gh/PeterJCLaw/srcomp-ts.svg?style=svg)](https://circleci.com/gh/PeterJCLaw/srcomp-ts)
+
 A TypeScript wrapper for the SRComp HTTP API.
 
 ## Usage
