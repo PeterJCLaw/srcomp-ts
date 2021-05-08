@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig",
+  "compilerOptions": {
+    "target": "ES3",
+    "outDir": "build/amd",
+    "module": "AMD",
+  },
+  "exclude": [
+    "**/*.spec.*",
+    "node_modules/**",
+  ]
+}
