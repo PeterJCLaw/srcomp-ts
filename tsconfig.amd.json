@@ -2,7 +2,7 @@
   "extends": "./tsconfig",
   "compilerOptions": {
     "target": "ES3",
-    "outDir": "build/amd",
+    "outFile": "build/srcomp.js",
     "module": "AMD",
   },
   "exclude": [
